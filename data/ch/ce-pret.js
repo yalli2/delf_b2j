@@ -1,0 +1,39 @@
+DELF.chapter({
+id:'ce-pret', part:'ce', stage:'pret', num:0, order:0,
+title:'Prêt pour l’examen ! — Compréhension des écrits', tr:{ko:'시험 준비 완료! — 독해',en:'Ready for the exam! — Reading'},
+intro:{ko:'독해 시험 전 마지막 점검: <b>전략 6단계</b>, 의견 표현(Pour dire), 시험 전·당일 체크리스트.',en:'Final check before the reading paper: 6-step strategy, opinion phrases, before/on-the-day checklist.',fr:'Les stratégies, les expressions utiles et la liste de vérification avant et pendant l’épreuve.'},
+blocks:[
+{type:'note',kind:'info',title:'Ce qu’il faut maîtriser',tr:{ko:'익혀야 할 것',en:'What you need to master'},toc:true,html:
+'<table><tr><th>Fonctions</th><td>argumenter, exprimer son opinion ; conseiller, avertir, alerter ; convaincre ; exprimer une pensée abstraite ; articuler et organiser un propos</td></tr>'+
+'<tr><th>Socioculturel</th><td>le ton d’un texte ; la langue de spécialité ; les grands sujets d’actualité (environnement, écologie, éducation…)</td></tr>'+
+'<tr><th>Grammaire</th><td>articulateurs logiques ; modalisation (exprimer un avis) ; formes impersonnelles (<span class="say">il est évident que, il semble que</span>) ; phrase complexe</td></tr>'+
+'<tr><th>Vocabulaire</th><td>culture, société, éducation, environnement, sciences, nouvelles technologies</td></tr></table>'},
+{type:'note',kind:'method',title:'Stratégies : 6 étapes',tr:{ko:'전략 6단계',en:'Strategy in 6 steps'},toc:true,html:
+'<ol><li>Je repère le <b>paratexte</b> (titre, intertitres, source) et j’identifie le type de texte.</li>'+
+'<li>Je parcours rapidement le <b>questionnaire</b> pour orienter ma lecture.</li>'+
+'<li>Je lis le texte attentivement en repérant l’<b>organisation</b> (paragraphes, articulateurs) et le <b>ton</b> de l’auteur.</li>'+
+'<li>Je lis chaque question et je cherche le <b>passage</b> correspondant.</li>'+
+'<li>Je réponds : je coche ou je <b>reformule</b> avec mes propres mots.</li>'+
+'<li>Je relis le passage pour <b>vérifier</b> ma réponse.</li></ol>'},
+{type:'note',kind:'lex',title:'Pour dire',tr:{ko:'유용한 표현',en:'Useful phrases'},toc:true,html:
+'<table><tr><th>Exprimer son point de vue</th><td><span class="say">À mon avis</span> · <span class="say">De mon point de vue</span> · <span class="say">En ce qui me concerne</span> · <span class="say">Il me semble que…</span> · <span class="say">Je considère que…</span> · <span class="say">Mon sentiment, c’est que…</span></td></tr>'+
+'<tr><th>Exprimer un accord</th><td><span class="say">C’est vrai que…</span> · <span class="say">Effectivement</span> · <span class="say">Sans aucun doute</span> · <span class="say">Je partage votre idée</span> · <span class="say">Je vous rejoins</span></td></tr>'+
+'<tr><th>Exprimer un désaccord</th><td><span class="say">Je ne suis pas d’accord</span> · <span class="say">Je ne pense pas que…</span> (+ subjonctif) · <span class="say">Au contraire</span> · <span class="say">Vous vous trompez</span> · <span class="say">C’est absolument faux !</span></td></tr>'+
+'<tr><th>Exprimer la certitude</th><td><span class="say">Il est certain que…</span> · <span class="say">Il est évident que…</span> · <span class="say">On ne peut pas nier que…</span> · <span class="say">Je suis persuadé que…</span> · <span class="say">Comme chacun sait</span></td></tr>'+
+'<tr><th>Exprimer une incertitude</th><td><span class="say">Je doute que…</span> · <span class="say">Je me demande si…</span> · <span class="say">Je ne sais pas quoi penser de…</span> · <span class="say">Je suis perplexe devant…</span> · <span class="say">Cela me semble invraisemblable</span></td></tr>'+
+'<tr><th>Conseiller</th><td><span class="say">Vous auriez tout intérêt à…</span> · <span class="say">Vous feriez mieux de…</span> · <span class="say">Il vaudrait mieux…</span> · <span class="say">Si je peux me permettre un conseil…</span></td></tr>'+
+'<tr><th>Mettre en garde</th><td><span class="say">Attention !</span> · <span class="say">Faites attention à…</span> · <span class="say">Soyez vigilants !</span> · <span class="say">Prenez garde à…</span></td></tr>'+
+'<tr><th>Structurer son propos</th><td><span class="say">J’aborderai les points suivants</span> · <span class="say">En premier lieu… en second lieu</span> · <span class="say">Par la suite</span> · <span class="say">Enfin / Pour finir / En conclusion</span></td></tr></table>'},
+{type:'note',kind:'tip',title:'Check-list',tr:{ko:'체크리스트',en:'Checklist'},toc:true,html:
+'<p><b>Avant l’examen</b></p><ul><li>☐ Lire la presse francophone et repérer le thème, la problématique et les idées clés des articles.</li><li>☐ M’entraîner à lire efficacement (paratexte, mots-clés).</li><li>☐ Connaître le schéma argumentatif (thèse, arguments, exemples, concession).</li><li>☐ Réviser les articulateurs logiques et les modalisateurs.</li></ul>'+
+'<p><b>Le jour de l’examen</b></p><ul><li>☐ Suivre la méthode : consigne → questions → texte.</li><li>☐ Gérer mon temps : environ 30 minutes par exercice.</li><li>☐ Ne pas bloquer sur une question difficile : y revenir à la fin.</li><li>☐ Identifier le thème et la problématique (Quoi ? Qui ? Où ? Quand ? Comment ?).</li><li>☐ Répondre dans l’ordre et retrouver le passage de chaque question.</li><li>☐ Deviner les mots difficiles grâce au contexte.</li><li>☐ Soigner l’orthographe et les conjugaisons (surtout en recopiant les justifications).</li></ul>'},
+{type:'ex',id:'e1',title:'Je suis prêt ?',consigne:'Vérifiez vos connaissances avant l’épreuve.',tr:{ko:'시험 전에 배운 내용을 점검하세요.',en:'Check what you know before the exam.'},items:[
+ {type:'order',q:'Remettez les 6 étapes de la stratégie dans l’ordre.',items:['Repérer le paratexte et le type de texte','Parcourir le questionnaire','Lire attentivement le texte (organisation, ton)','Chercher le passage correspondant à chaque question','Répondre en cochant ou en reformulant','Relire le passage pour vérifier']},
+ {type:'match',q:'Associez chaque expression à sa fonction.',left:['Je doute que ce soit vrai.','Vous feriez mieux de lire la presse.','Il est évident que le climat change.','Je vous rejoins sur ce point.','Soyez vigilants !','En premier lieu, j’aborderai…'],right:['exprimer une incertitude','conseiller','exprimer la certitude','exprimer un accord','mettre en garde','structurer son propos'],answer:[0,1,2,3,4,5]},
+ {type:'mcq',q:'Combien de temps environ faut-il consacrer à chaque exercice ?',options:['15 minutes','30 minutes','45 minutes'],answer:1},
+ {type:'mcq',q:'Vous ne trouvez pas la réponse à une question. Que faites-vous ?',options:['Je reste dessus jusqu’à trouver.','Je passe à la suivante et j’y reviens à la fin.','Je laisse vide et je n’y reviens pas.'],answer:1},
+ {type:'mcq',q:'« Le ministre aurait, selon nos sources, démissionné. » Le conditionnel sert à…',options:['exprimer un souhait','mettre de la distance (information non confirmée)','donner un ordre'],answer:1},
+ {type:'gap',q:'Complétez avec la fonction de l’articulateur.',text:'« néanmoins » exprime [[*l’opposition|la cause|le but]] ; « puisque » exprime [[*la cause|la conséquence|l’ajout]] ; « par conséquent » exprime [[*la conséquence|la cause|l’opposition]] ; « en outre » exprime [[*l’ajout|le but|la concession]].'},
+ {type:'open',q:'Relisez les rubriques « Je retiens » de cette partie et notez les 4 conseils les plus importants pour vous.',minWords:20,rows:5,model:'<ol><li>Je lis les questions avant le texte pour savoir quoi chercher.</li><li>Pour les vrai/faux, je recopie seulement la phrase qui justifie et je vérifie que ma case correspond.</li><li>Je repère les articulateurs et les modalisateurs pour comprendre la position de l’auteur.</li><li>Je gère mon temps : 30 minutes par exercice, et je reviens à la fin sur les questions difficiles.</li></ol>',checklist:['J’ai noté 4 conseils différents','Mes conseils concernent la méthode ET la langue','Ils sont formulés clairement, avec des verbes d’action']}
+]}
+]});

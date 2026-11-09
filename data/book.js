@@ -1,0 +1,5 @@
+window.BOOK={key:'b2j',hero:'linear-gradient(135deg,#4a0f6b,#7c3aed 55%,#a78bfa)',short:'DELF B2 junior',level:'B2',v:1,
+title:'DELF B2 scolaire et junior — Préparation interactive',
+desc:{ko:'「Le DELF B2 100% Réussite」(scolaire et junior) 교재 구성을 따라 듣기·읽기·쓰기·말하기와 모의고사를 사이트에서 바로 풀고 점수를 확인하는 수업용 학습 사이트입니다.',en:'Interactive class site following “Le DELF B2 100% Réussite” (school & junior): four skills and a mock exam with instant scores.',fr:'Site interactif suivant la progression du manuel « Le DELF B2 100 % réussite » (scolaire et junior) : 4 compétences et une épreuve blanche.'},
+footer:'Basé sur la progression de « Le DELF B2 100% Réussite » scolaire et junior (Didier) — contenus adaptés.',
+exam:[{p:'co',d:{ko:'약 30분 · 25점 · 문서 2개',en:'≈30 min · 25 pts',fr:'≈ 30 min · 25 pts'}},{p:'ce',d:{ko:'1시간 · 25점 · 정보문/논증문',en:'1 h · 25 pts',fr:'1 h · 25 pts'}},{p:'pe',d:{ko:'1시간 · 25점 · 250단어 이상 논증 글',en:'1 h · 25 pts · 250+ words',fr:'1 h · 25 pts · 250 mots min.'}},{p:'po',d:{ko:'준비 30분 · 20분 · 25점 · 발표+토론',en:'prep 30 min · 20 min · 25 pts',fr:'prép. 30 min · 20 min · 25 pts'}}]};
